@@ -1,4 +1,4 @@
-<a target="_blank" href="https://colab.research.google.com/github/fredi-python/Prompt2VideoColabUI/blob/main/Prompt2Video.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/fredi-python/Prompt2VideoColabUI/blob/main/prompt2video.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
