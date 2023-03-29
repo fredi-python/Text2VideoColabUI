@@ -3,4 +3,4 @@
 </a>
 
 # Prompt2VideoColabUI
-A Video generation google colab notebook
+A user-friendly Video generation google colab notebook
